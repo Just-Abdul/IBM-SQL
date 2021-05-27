@@ -1,1 +1,1 @@
-# Querying a disk-based database using IBM_Watson cloud tools
+# Querying a disk-based database using IBM Watson studio
